@@ -108,6 +108,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bundler (= 2.0.1)
   jekyll (~> 3.8.6)
   jekyll-feed (~> 0.6)
   minimal-mistakes-jekyll
@@ -116,4 +117,4 @@ DEPENDENCIES
   wdm (~> 0.1.0)
 
 BUNDLED WITH
-   2.0.2
+   2.0.1
